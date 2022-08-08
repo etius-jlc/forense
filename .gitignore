@@ -1,0 +1,6 @@
+node_modules/
+f_export/f_data/*.txt
+f_export/f_word/*.txt
+f_export/f_mix/*.txt
+f_export/f_log/*.log
+f_export/f_exc/*.txt
